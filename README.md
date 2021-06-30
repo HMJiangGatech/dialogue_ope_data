@@ -8,7 +8,7 @@
 
 ## Why we need experience data for OPE?
 
-OPE is usually done with experience data, which is the historical conversations between human and dialogue systems. The dialogue systems used for collecting experience data is also called behavior models/behavior agents. 
+OPE is usually done with experience data, which is the historical conversations between human and dialogue systems. The dialogue systems used for collecting experience data are also called behavior models/behavior agents. 
 
 Note that the experience data can be *different* from the *training data*, which usually contains only high-quality human-to-human conversations. As the human-to-human conversations does not cover failure modes of dialogue systems, they are not appropriate for OPE. 
 
