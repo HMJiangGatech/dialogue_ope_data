@@ -36,7 +36,7 @@ The json fileds of `data.json`:
 ## Usage of Pre-trained Model
 
 See [Airdialogue Model Transformer](https://github.com/google-research/google-research/tree/master/dialogue_ope/airdialogue_model_transformer) for details. 
-The pre-trained model weights will be released soon.
+The pre-trained model weights can be downloaded from [here](https://www.dropbox.com/s/mf8gf26u0c10j83/air_pretrain_model.tar?dl=0).
 
 ## Reference
 
