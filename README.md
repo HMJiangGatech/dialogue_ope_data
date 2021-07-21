@@ -31,7 +31,7 @@ This is a goal-oriented task. We trained transformer based models and ask human 
 
 EANCS (EMNLP 2021) Share Task: https://sites.google.com/view/eancs/shared-task
 
-CodaLab Leaderboard: Coming soon
+CodaLab Leaderboard: https://competitions.codalab.org/competitions/33769
 
 [CodaLab Leaderboard Submission Starting Kit](./codalab/)
 
