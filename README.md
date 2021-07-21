@@ -26,6 +26,15 @@ This is a chit-chat task. We mainly use the pre-trained dialogue agents from the
 
 This is a goal-oriented task. We trained transformer based models and ask human evaluator to chat with these models to generate experience data. The model is trained using this [code base](https://github.com/google-research/google-research/tree/master/dialogue_ope/airdialogue_model_transformer). See [airdialogue/README.md](airdialogue/README.md) for details.
 
+
+## CodaLab Leaderboard & EANCS (EMNLP 2021) Share Task
+
+EANCS (EMNLP 2021) Share Task: https://sites.google.com/view/eancs/shared-task
+
+CodaLab Leaderboard: Coming soon
+
+[CodaLab Leaderboard Submission Starting Kit](./codalab/)
+
 ## Reference
 
 
